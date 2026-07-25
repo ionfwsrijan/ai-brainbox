@@ -106,13 +106,6 @@ Contributions are welcome! Please open issues or pull requests for any features,
 
 This project is licensed under the MIT License.
 
-## Acknowledgments
-
-- [Ollama AI](https://ollama.com/)
-- [CodeSandbox](https://codesandbox.io/)
-- [Next.js](https://nextjs.org/)
-- [React](https://react.dev/)
-
 ---
 
 *AI BrainBox: Your AI-powered coding companion!*
